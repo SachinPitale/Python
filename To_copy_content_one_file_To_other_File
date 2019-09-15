@@ -1,0 +1,18 @@
+
+import sys
+import os
+
+input=sys.argv[1]
+output=sys.argv[2]
+
+input_file=open(input)
+data=input_file.read()
+
+output_file=open(output, 'a')
+output_file.write()
+
+input_file.close()
+output_file.close()
+
+
+

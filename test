@@ -1,0 +1,15 @@
+
+def chees_and_crackers(chees, crakers):
+	print "You have %d chees" %chees
+	print "you have %d crakers" %crakers
+
+
+
+chees_and_crackers(10,20)
+
+amount_of_chees = 10
+amount_of_cracker = 50
+
+chees_and_crackers(amount_of_chees, amount_of_cracker)
+
+

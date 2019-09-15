@@ -1,0 +1,22 @@
+
+
+class emp():
+	pass
+
+
+emp1 = emp()
+emp2 = emp()
+
+
+emp1.name =  'sachin'
+emp1.email = 'spi@abc.com'
+
+emp2.name = 'satish'
+emp2.email = 'sat@abc.com'
+
+
+print (emp1.name)
+print (emp1.email)
+
+print (emp2.name)
+print (emp2.email)

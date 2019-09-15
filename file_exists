@@ -1,0 +1,9 @@
+
+import os
+
+if os.path.exists("/root/esktop" ) :
+	print("file is exists")
+
+else: 
+	print("path does not exists")
+

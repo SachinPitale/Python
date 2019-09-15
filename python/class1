@@ -1,0 +1,16 @@
+
+class emp():
+	def __init__(self, name, last, salary):
+		self.name = name
+		self.last = last
+		self.salary = salary
+
+emp1 = emp('sachin','pitale',50000)
+emp2 = emp('ganesh', 'pitale', 60000)
+
+print (emp1.name)
+print (emp1.last)
+print (emp2.name)
+print (emp2.last)
+
+
